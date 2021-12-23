@@ -6,6 +6,18 @@ Please choose some questions from the Blockchain stack.
 - It will be very helpful if you also provide the related week and day or learn link.  
 
 
+**Week 9, Day 2** 
+
+**Question:** We can make money with Bitcoin by?
+
+**Answer:** 
+
+A. Minnig
+B. Buying
+C. Earning
+D. All of the above
+
+
 
 **Week 9, Day 3** 
 
